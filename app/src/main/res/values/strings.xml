@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">random_film</string>
+
+    <string name="randomizer_label">Выбор случайного фильма</string>
+    <string name="randomize">ПОДОБРАТЬ</string>
+
+    <string-array name="films">
+        <item>Lord of the rings</item>
+        <item>Interstellar</item>
+        <item>Kill Bill</item>
+        <item>BladeRunner 2049</item>
+    </string-array>
+
+</resources>
