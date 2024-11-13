@@ -36,4 +36,25 @@
         android:layout_marginHorizontal="8dp"
         android:layout_marginVertical="16dp"/>
 
+    <TextView
+        android:id="@+id/caution"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginHorizontal="8dp"
+        android:layout_marginVertical="16dp"
+        android:textColor="#FF0000"
+        android:text="@string/caution"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/reset_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="8dp"
+        android:layout_marginVertical="8dp"
+        android:text="@string/reset"
+        android:textSize="16sp"
+        android:visibility="gone"/>
 </LinearLayout>

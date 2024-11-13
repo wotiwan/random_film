@@ -4,6 +4,9 @@
     <string name="randomizer_label">Выбор случайного фильма</string>
     <string name="randomize">ПОДОБРАТЬ</string>
 
+    <string name="caution">Вы уже перебрали все фильмы!</string>
+    <string name="reset">Сбросить</string>
+
     <string-array name="films">
         <item>Lord of the rings</item>
         <item>Interstellar</item>
